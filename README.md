@@ -1,3 +1,4 @@
-#markdown
+#Mynote
 
-##浅学一下markdown，并记录
+一代摆王迫不得已写出的若干笔记
+
